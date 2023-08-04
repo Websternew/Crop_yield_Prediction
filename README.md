@@ -28,7 +28,7 @@ The model will analyze input parameters and predict the most suitable crop for g
 ## Run Locally
 
  - Make sure git is installed. 
- - Clone the project by running following command in cmd or terminal: `git clone https://github.com/sudoshivam/crop-prediction-model.git` or you can simply download the entire repo as zip.
+ - Clone the project.
  - Install Anaconda or miniconda and create an environment with Python 3.6. Refer [this tutorial](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html) on how to create an environment in conda.
  - Activate environment.
  - Install required libraries by running following commands:
